@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section 4/AreaCalculator/AreaCalculator.iml" filepath="$PROJECT_DIR$/Section 4/AreaCalculator/AreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/Exercises/Barking Dog/Barking Dog.iml" filepath="$PROJECT_DIR$/Section 4/Exercises/Barking Dog/Barking Dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 3/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/Section 3/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 3/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/Section 3/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/CodeBlackAndControlStatements/CodeBlackAndControlStatements.iml" filepath="$PROJECT_DIR$/Section 4/CodeBlackAndControlStatements/CodeBlackAndControlStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/Exercises/DecimalComparator/DecimalComparator.iml" filepath="$PROJECT_DIR$/Section 4/Exercises/DecimalComparator/DecimalComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/Exercises/EqualSumChecker/EqualSumChecker.iml" filepath="$PROJECT_DIR$/Section 4/Exercises/EqualSumChecker/EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/EqualityPrinterChallenge/EqualityPrinterChallenge.iml" filepath="$PROJECT_DIR$/Section 4/EqualityPrinterChallenge/EqualityPrinterChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 3/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/Section 3/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 3/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/Section 3/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Programming Masterclass for Software Developers.iml" filepath="$PROJECT_DIR$/.idea/Java Programming Masterclass for Software Developers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/Section 4/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/Exercises/LeapYearCalculator/LeapYearCalculator.iml" filepath="$PROJECT_DIR$/Section 4/Exercises/LeapYearCalculator/LeapYearCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/Exercises/MegaBytesConverter/MegaBytesConverter.iml" filepath="$PROJECT_DIR$/Section 4/Exercises/MegaBytesConverter/MegaBytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/Section 4/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/Methods/Methods.iml" filepath="$PROJECT_DIR$/Section 4/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/MinutesToYearAndDaysCalculatorChallenge/MinutesToYearAndDaysCalculatorChallenge.iml" filepath="$PROJECT_DIR$/Section 4/MinutesToYearAndDaysCalculatorChallenge/MinutesToYearAndDaysCalculatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 3/Operators/Operators.iml" filepath="$PROJECT_DIR$/Section 3/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/PlayingCatChallenge/PlayingCatChallenge.iml" filepath="$PROJECT_DIR$/Section 4/PlayingCatChallenge/PlayingCatChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/PositiveNegativeZero/PositiveNegativeZero.iml" filepath="$PROJECT_DIR$/Section 4/PositiveNegativeZero/PositiveNegativeZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 3/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/Section 3/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/Section 4/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/Exercises/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/Section 4/Exercises/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/StatementsWhitespaceAndIndentation/StatementsWhitespaceAndIndentation.iml" filepath="$PROJECT_DIR$/Section 4/StatementsWhitespaceAndIndentation/StatementsWhitespaceAndIndentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 3/Strings/Strings.iml" filepath="$PROJECT_DIR$/Section 3/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 4/Exercises/TeenNumberChecker/TeenNumberChecker.iml" filepath="$PROJECT_DIR$/Section 4/Exercises/TeenNumberChecker/TeenNumberChecker.iml" />
+    </modules>
+  </component>
+</project>
